@@ -1,0 +1,21 @@
+# 컴파일 결과물
+sum-nbo
+*.o
+
+# 바이너리 테스트 파일
+*.bin
+
+# 백업/임시 파일
+*~
+*.swp
+*.bak
+
+# MacOS 및 Linux 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log
+
+# 빌드 결과 디렉토리 (필요시)
+build/
