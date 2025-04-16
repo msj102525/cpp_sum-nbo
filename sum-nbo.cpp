@@ -76,6 +76,6 @@ int main(int argc, char *argv[]) {
               << std::hex << std::setfill('0') << std::setw(8) 
               << sum << ")" << std::endl;
 
-    return 0;  // 정상 종료
+    // return 0;  // 정상 종료
 }
 
